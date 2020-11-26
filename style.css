@@ -1,0 +1,29 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.imgboard{
+    background-image: url("bilal.png");
+    width:240px;
+    height: 250px;
+    margin:6px 0 0 10px;
+    cursor: pointer;
+}
+.whiteboard{
+    background:blue;
+    width:260px;
+    height:260px;
+    margin:10px;
+    float: left;
+    
+}
+.hold{
+    border: 2px solid pink;
+}
+.hide{
+    display: none;
+}
+.dashed{
+    background-color: grey;
+    border-style: dashed;
+}
